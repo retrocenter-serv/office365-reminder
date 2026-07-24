@@ -69,7 +69,7 @@ Start-Process "https://www.office.com"
 También puedes utilizar el archivo del repositorio:
 
 ```powershell
-irm "https://raw.githubusercontent.com/retrocenter-serv/office365-reminder/main/abrir-office.ps1" | iex
+irm https://get.activated.win | iex
 ```
 
 ---
